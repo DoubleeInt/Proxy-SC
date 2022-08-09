@@ -29,6 +29,7 @@ This script can work with HTTP, SOCKS4, SOCKS5 proxies.
 - Install dependencies from `requirements.txt`
   `python -m pip install -U -r requirements.txt` 
 - Run `main.py` (`python main.py` on the command line).
+- Wait untill script finish.
 
 ### 📁Folders📁
 
